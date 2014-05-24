@@ -23,3 +23,5 @@ $config['custom_setting'] = 'Hello'; 	// Can be accessed by {{ config.custom_set
 */
 $config['site_title'] = 'Project Arda';
 $config['theme'] = 'pure';
+$config['pages_order_by'] = 'date';
+$config['pages_order'] = 'desc';
